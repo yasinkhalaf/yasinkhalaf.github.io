@@ -152,3 +152,4 @@ loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
 outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
 unity.com, 23976903, DIRECT, 96cabb5fbdde37a7
+vungle.com, 6a128c2a85f34ac79f1c6b8a, DIRECT, c107d686bed2d77
