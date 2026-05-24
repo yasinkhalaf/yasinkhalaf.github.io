@@ -1,4 +1,4 @@
-vungle.com,6a128c2a85f34ac79f1c6b8a,DIRECT,c107d686becd2d77
+vungle.com, 6a128c2a85f34ac79f1c6b8a, DIRECT, c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
 contextweb.com,562852,RESELLER,89ff185a4c4e857c
 media.net,8CU12AQ1Y,RESELLER
